@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+
+.img {
+    float: left;
+    padding: 30px;
+  }
+
+.cars {
+    width: 20%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    
+    
+
+}
+
+h1 {
+    padding-top:100px ;
+}
+
+.learn {
+    border-radius: 32px;
+}
